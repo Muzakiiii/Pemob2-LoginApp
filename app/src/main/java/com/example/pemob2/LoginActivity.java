@@ -27,7 +27,6 @@ public class LoginActivity extends AppCompatActivity {
                 Toast.makeText(this, "Please fill all fields", Toast.LENGTH_SHORT).show();
             } else if (email.equals("admin@example.com") && pass.equals("12345")) {
                 Toast.makeText(this, "Login Successful!", Toast.LENGTH_SHORT).show();
-                // contoh intent ke dashboard
                 startActivity(new Intent(this, MainActivity.class));
             } else {
                 Toast.makeText(this, "Invalid Email or Password", Toast.LENGTH_SHORT).show();
