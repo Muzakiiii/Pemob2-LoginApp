@@ -4,5 +4,5 @@ Aplikasi PEMOB2 adalah project Android Studio yang menampilkan halaman login sed
 
 Berikut hasil tampilannya:
 
-![Screenshot](SS_pemob.png)
+![Screenshot](ss_pemob2.jpg)
 
